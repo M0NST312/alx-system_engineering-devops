@@ -1,0 +1,5 @@
+#!/bin/bash
+VAR1=2
+VAR2=3
+ans=$((VAR1 + VAR2))
+echo "$VAR1"
